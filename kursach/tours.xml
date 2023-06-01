@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tours>
+  <tour>
+    <name>1Париж и окрестности</name>
+    <description>Путешествие в столицу Франции и посещение окрестностей: Версаля, Гиверни, Фонтенбло, Живерни</description>
+    <duration>7 дней</duration>
+    <price>1500 EUR</price>
+    <image>paris.jpg</image>
+  </tour>
+  <tour>
+    <name>Италия: Рим, Флоренция, Венеция</name>
+    <description>Ознакомление с культурным наследием Италии, посещение Рима, Флоренции и Венеции</description>
+    <duration>10 дней</duration>
+    <price>2000 EUR</price>
+    <image>italy.jpg</image>
+  </tour>
+  <tour>
+    <name>Турция: Анталия и Каппадокия</name>
+    <description>Отдых на пляжах Анталии и экскурсия в Каппадокию, где можно увидеть уникальные скальные города и подземные города</description>
+    <duration>8 дней</duration>
+    <price>1200 EUR</price>
+    <image>turkey.jpg</image>
+  </tour>
+    <tour>
+    <name>Классическая Испания</name>
+    <description>Отдых на пляжах Анталии и экскурсия в Каппадокию, где можно увидеть уникальные скальные города и подземные города</description>
+    <duration>10 дней</duration>
+    <price>2200 EUR</price>
+    <image>spain.jpg</image>
+  </tour>
+    <tour>
+    <name>Западное побережье США</name>
+    <description>Отдых на пляжах Анталии и экскурсия в Каппадокию, где можно увидеть уникальные скальные города и подземные города</description>
+    <duration>14 дней</duration>
+    <price>3000 EUR</price>
+    <image>usa.jpg</image>
+  </tour>
+    <tour>
+    <name>Островное путешествие по Греции</name>
+    <description>Отдых на пляжах Анталии и экскурсия в Каппадокию, где можно увидеть уникальные скальные города и подземные города</description>
+    <duration>10 дней</duration>
+    <price>1800 EUR</price>
+    <image>greece.jpg</image>
+  </tour>
+</tours>
